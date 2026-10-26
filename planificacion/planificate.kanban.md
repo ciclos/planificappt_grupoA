@@ -42,6 +42,7 @@ Como estudiante quiero que el sistema me sugiera o calcule el tiempo estimado de
 - [ ] Estructura en la BDD para guardar los tiempos reales frente a los estimados para ajustar el histórico
 <!-- priority: high -->
 <!-- workload: hard -->
+<!-- assignee: Paloma -->
 
 #### Visualización del calendario
 <!-- id: task-1792406364350-39 -->
@@ -51,6 +52,7 @@ Como estudiante quiero visualizar mis tareas distribuidas temporalmente en un ca
 - [ ] Ubicación de cada tarea en su bloque horario correspondiente
 <!-- priority: high -->
 <!-- workload: hard -->
+<!-- assignee: Elena -->
 
 ## In Progress
 
