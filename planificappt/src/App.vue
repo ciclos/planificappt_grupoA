@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import tiempoEstimado from './components/tiempoEstimado.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <tiempo-estimado />
 </template>
