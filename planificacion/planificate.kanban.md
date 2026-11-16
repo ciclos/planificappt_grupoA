@@ -10,8 +10,10 @@
 <!-- id: task-1792405643479-0 -->
 Como estudiante quiero que el sistema me estime las tareas para saber cuánto tiempo voy a tardar en hacerlas y poder organizarme mejor.
 - [ ] Interfaz del formulario para registro de tareas
-- [ ] Creación de la tabla de la tarea en la BDD
-- [ ] Orden para el registro de la tarea en la BDD
+- [ ] Creación del mock de almacenamiento
+- [ ] Conectar formulario con la persistencia
+- [ ] Validación de datos del formulario
+- [ ] Integración visual de la nueva tarea
 <!-- priority: high -->
 <!-- workload: hard -->
 <!-- assignee: Mars -->
