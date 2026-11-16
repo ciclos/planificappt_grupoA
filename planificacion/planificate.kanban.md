@@ -34,16 +34,6 @@ Como estudiante quiero crear y gestionar categorías mediante etiquetas para cla
 - [ ] Operaciones para guardar y asocial etiquetas a la tarea en la BDD
 <!-- workload: easy -->
 
-#### Estimación de las tareas
-<!-- id: task-1792406309837-26 -->
-Como estudiante quiero que el sistema me sugiera o calcule el tiempo estimado de realización de una tarea según mi experiencia previa o la de mis compañeros para planificarme de forma realista.
-- [ ] Lógica para calcular el tiempo estimado según datos históricos o de grupo
-- [ ] Interfaz para mostrar la estimación al usuario antes de confirmar la tarea
-- [ ] Estructura en la BDD para guardar los tiempos reales frente a los estimados para ajustar el histórico
-<!-- priority: high -->
-<!-- workload: hard -->
-<!-- assignee: Paloma -->
-
 #### Visualización del calendario
 <!-- id: task-1792406364350-39 -->
 Como estudiante quiero visualizar mis tareas distribuidas temporalmente en un calendario para gestionar mi tiempo diario y semanal de un vistazo.
@@ -55,5 +45,16 @@ Como estudiante quiero visualizar mis tareas distribuidas temporalmente en un ca
 <!-- assignee: Elena -->
 
 ## In Progress
+
+#### Estimación de las tareas
+<!-- id: task-1792406309837-26 -->
+Como estudiante quiero que el sistema me sugiera o calcule el tiempo estimado de realización de una tarea según mi experiencia previa o la de mis compañeros para planificarme de forma realista.
+- [x] Estrucutra de Datos (formulario + mostrar datos)
+- [ ] Logica del cronometro (Inicio de tarea + fin de tarea)
+- [ ] Calculo de la media estimada por ejercicio
+- [ ] Exportar los datos a documento json de forma temporal
+<!-- priority: high -->
+<!-- workload: hard -->
+<!-- assignee: Paloma -->
 
 ## Done
